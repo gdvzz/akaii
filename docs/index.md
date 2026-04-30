@@ -2,8 +2,13 @@
 ---
 
 # 欢迎访问 A&K AII Club
+`更新-260430` \| `发布-251201`
 
 欢迎访问 **昇腾鲲鹏 AI 创新俱乐部** （A&K AII Club， Ascend KunPeng AI Innovation Club）！
+
+## 学习参考资料
+
+- 学习参考资料：[链接↗](./stt)
 
 ## 俱乐部招新启示
 
